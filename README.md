@@ -10,8 +10,8 @@ Analyzed FY2019-2022 retail sales data (216 Orders, 229 Order Lines) worth ₹2,
 - Avg Order Value: ₹1,36,004
 
 ## Tools Used
-- Python (Pandas) - Data Cleaning & EDA
-- Power BI Desktop - Dashboard & DAX Measures
+- Python (Pandas) - Data Cleaning 
+- Power BI Desktop - Dashboard
 
 ## Key Insights
 1. March 2020 me sales lowest thi (Covid lockdown impact), July 2020 me peak recovery hua.
