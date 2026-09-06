@@ -23,5 +23,5 @@ Analyzed FY2019-2022 retail sales data (216 Orders, 229 Order Lines) worth ₹2,
 
 ## How to Run
 1. Power BI Desktop install karo (Microsoft Store se free).
-2. Repo me di gayi .pbix file open karo ya screenshot se dashboard dekho.
+2. Repo me diye gaye screenshot se dashboard dekho.
 3. Year / Region / Category / Segment slicers se filter karke analysis karo.
