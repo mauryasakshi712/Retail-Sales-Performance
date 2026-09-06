@@ -1,22 +1,27 @@
-# Retail Sales Performance Dashboard
+# Retail Sales Performance Dashboard | Power BI + Python
 
 ## Project Overview
-Ye project retail company ke sales data ka analysis karne ke liye banaya gaya hai. Isme monthly sales trend, top performing products aur region-wise performance dikhaya gaya hai.
+Analyzed FY2019-2022 retail sales data (216 Orders, 220 Order Lines) worth ₹2,93,76,855 to identify sales trends, profitable categories and region-wise performance. Overall profit margin is 11.9%.
+
+## KPIs
+- Total Sales: ₹2,93,76,855
+- Total Profit: ₹35,09,106 (11.9% Margin)
+- Total Orders: 216
+- Avg Order Value: ₹1,36,004
 
 ## Tools Used
-- **Language:** Python
-- **Libraries:** Pandas, Plotly, Streamlit
-- **Data:** Sales dataset
+- Python (Pandas) - Data Cleaning & EDA
+- Power BI Desktop - Dashboard & DAX Measures
 
 ## Key Insights
-1. Top 5 products ne total revenue ka 40% generate kiya
-2. Q4 me sales me 25% ki growth dekhi gayi
-3. North region sabse zyada sales de raha hai
+1. March 2020 me sales lowest thi (Covid lockdown impact), July 2020 me peak recovery hua.
+2. Technology category sabse zyada profitable hai.
+3. Consumer segment sabse bada contributor hai.
 
 ## Dashboard Screenshot
 ![Dashboard](Screenshot%202026-07-19%20191622.png)
 
 ## How to Run
-1. Python install karo
-2. `pip install pandas plotly streamlit`
-3. `streamlit run app.py`
+1. Power BI Desktop install karo (Microsoft Store se free).
+2. Repo me di gayi .pbix file open karo ya screenshot se dashboard dekho.
+3. Year / Region / Category / Segment slicers se filter karke analysis karo.
