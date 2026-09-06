@@ -1,0 +1,217 @@
+Order_ID,Order_Date,Sales,Region,Category,Segment,Year,Profit
+ORD-1000,2022-01-31,142486,Central,Technology,Consumer,2022,16756
+ORD-1001,2022-12-30,150652,East,Furniture,Home Office,2022,21055
+ORD-1002,2021-05-10,172820,Central,Furniture,Consumer,2021,19362
+ORD-1003,2022-07-18,67199,South,Technology,Corporate,2022,6933
+ORD-1004,2022-02-04,194645,West,Technology,Home Office,2022,23718
+ORD-1005,2021-12-31,222032,West,Technology,Corporate,2021,34061
+ORD-1006,2021-11-10,139415,South,Technology,Home Office,2021,16671
+ORD-1007,2019-05-02,207957,West,Office Supplies,Consumer,2019,24062
+ORD-1008,2020-04-11,139213,South,Office Supplies,Corporate,2020,16039
+ORD-1009,2022-05-23,220132,South,Technology,Corporate,2022,29841
+ORD-1010,2019-11-27,124018,South,Office Supplies,Corporate,2019,20652
+ORD-1011,2019-03-29,75544,West,Furniture,Consumer,2019,9955
+ORD-1012,2022-10-28,142778,Central,Furniture,Consumer,2022,19759
+ORD-1013,2022-01-28,116506,South,Furniture,Consumer,2022,18501
+ORD-1014,2021-05-21,64817,East,Technology,Corporate,2021,8873
+ORD-1015,2019-05-11,183965,West,Technology,Home Office,2019,20845
+ORD-1016,2022-08-25,127888,South,Furniture,Corporate,2022,15481
+ORD-1017,2021-02-08,199060,South,Furniture,Consumer,2021,24236
+ORD-1018,2019-12-10,121482,East,Technology,Home Office,2019,15505
+ORD-1019,2022-12-08,90676,Central,Office Supplies,Consumer,2022,11752
+ORD-1020,2021-03-16,58606,Central,Office Supplies,Consumer,2021,9066
+ORD-1021,2020-01-21,126570,Central,Technology,Consumer,2020,15746
+ORD-1022,2022-04-30,89024,South,Office Supplies,Corporate,2022,11787
+ORD-1023,2021-08-13,164010,South,Office Supplies,Consumer,2021,23444
+ORD-1024,2019-10-04,94767,South,Office Supplies,Corporate,2019,11970
+ORD-1025,2022-03-30,144980,West,Technology,Home Office,2022,22788
+ORD-1026,2020-04-04,155417,East,Office Supplies,Consumer,2020,21824
+ORD-1027,2022-08-30,75594,South,Furniture,Corporate,2022,9123
+ORD-1028,2019-01-22,171681,East,Office Supplies,Consumer,2019,25570
+ORD-1029,2019-09-10,164100,East,Office Supplies,Consumer,2019,22383
+ORD-1030,2021-01-17,221503,Central,Furniture,Consumer,2021,30314
+ORD-1031,2021-05-06,169245,West,Office Supplies,Consumer,2021,22554
+ORD-1032,2020-04-19,120317,South,Office Supplies,Corporate,2020,16163
+ORD-1033,2021-12-18,108186,Central,Office Supplies,Consumer,2021,16486
+ORD-1034,2020-05-25,134404,Central,Furniture,Corporate,2020,14493
+ORD-1035,2020-11-30,54506,South,Technology,Corporate,2020,6725
+ORD-1036,2021-09-02,78047,East,Technology,Corporate,2021,8271
+ORD-1037,2019-07-09,163110,Central,Office Supplies,Corporate,2019,24723
+ORD-1038,2021-08-15,51870,East,Technology,Corporate,2021,6184
+ORD-1039,2020-11-17,79724,West,Furniture,Consumer,2020,12857
+ORD-1040,2021-08-15,144993,East,Technology,Consumer,2021,19766
+ORD-1041,2020-07-16,86743,West,Furniture,Home Office,2020,13425
+ORD-1042,2022-06-21,64145,East,Office Supplies,Corporate,2022,10696
+ORD-1043,2021-04-11,121285,Central,Office Supplies,Consumer,2021,19090
+ORD-1044,2022-02-28,215655,Central,Technology,Consumer,2022,34338
+ORD-1045,2020-10-08,71627,West,Office Supplies,Consumer,2020,9193
+ORD-1046,2019-01-21,176350,South,Furniture,Home Office,2019,24339
+ORD-1047,2021-04-20,86377,West,Technology,Consumer,2021,10191
+ORD-1048,2019-06-16,152497,West,Office Supplies,Consumer,2019,17399
+ORD-1049,2022-07-21,130757,East,Furniture,Consumer,2022,17640
+ORD-1050,2020-01-23,140489,East,Technology,Consumer,2020,19799
+ORD-1051,2020-08-23,176105,West,Office Supplies,Home Office,2020,21789
+ORD-1052,2019-11-12,144021,Central,Technology,Consumer,2019,20049
+ORD-1053,2019-01-14,163331,East,Technology,Home Office,2019,26231
+ORD-1054,2019-08-30,189702,South,Furniture,Consumer,2019,26246
+ORD-1055,2021-02-15,137113,East,Technology,Home Office,2021,20483
+ORD-1056,2022-10-01,145289,East,Furniture,Consumer,2022,22531
+ORD-1057,2020-07-18,63266,South,Furniture,Consumer,2020,10591
+ORD-1058,2021-06-16,149662,West,Office Supplies,Corporate,2021,21174
+ORD-1059,2022-09-25,71225,South,Office Supplies,Home Office,2022,11052
+ORD-1060,2019-04-02,216298,West,Office Supplies,Home Office,2019,35832
+ORD-1061,2022-10-22,199870,West,Office Supplies,Corporate,2022,32865
+ORD-1062,2021-08-13,51196,West,Furniture,Home Office,2021,5651
+ORD-1063,2022-12-22,149717,South,Technology,Consumer,2022,19200
+ORD-1064,2020-05-23,199537,West,Furniture,Home Office,2020,24483
+ORD-1065,2021-02-14,58110,Central,Furniture,Consumer,2021,6203
+ORD-1066,2019-02-04,207355,South,Technology,Corporate,2019,29756
+ORD-1067,2019-07-25,104079,Central,Furniture,Home Office,2019,15654
+ORD-1068,2022-01-09,48609,West,Furniture,Corporate,2022,7678
+ORD-1069,2022-11-12,50211,East,Office Supplies,Corporate,2022,5481
+ORD-1070,2021-10-22,152417,West,Office Supplies,Consumer,2021,24365
+ORD-1071,2021-10-18,157043,Central,Furniture,Home Office,2021,22638
+ORD-1072,2022-11-14,97256,Central,Technology,Consumer,2022,14419
+ORD-1073,2020-07-19,55462,South,Technology,Home Office,2020,8993
+ORD-1074,2022-02-03,187636,East,Office Supplies,Corporate,2022,26819
+ORD-1075,2020-12-03,172986,South,Office Supplies,Consumer,2020,21363
+ORD-1076,2020-02-06,148360,Central,Technology,Corporate,2020,23204
+ORD-1077,2020-12-30,73772,West,Furniture,Corporate,2020,9245
+ORD-1078,2019-06-11,49536,East,Technology,Corporate,2019,5112
+ORD-1079,2019-07-21,209088,West,Technology,Corporate,2019,32781
+ORD-1080,2021-09-22,216149,West,Technology,Consumer,2021,26829
+ORD-1081,2019-09-27,204631,East,Technology,Corporate,2019,31300
+ORD-1082,2021-03-26,157035,South,Office Supplies,Home Office,2021,19677
+ORD-1083,2022-07-18,163784,West,Furniture,Consumer,2022,26013
+ORD-1084,2020-03-31,78810,Central,Technology,Corporate,2020,9116
+ORD-1085,2022-06-29,163465,West,Office Supplies,Consumer,2022,27210
+ORD-1086,2021-10-13,222598,East,Office Supplies,Consumer,2021,34137
+ORD-1087,2019-10-23,203402,East,Office Supplies,Corporate,2019,22087
+ORD-1088,2020-12-20,63645,East,Technology,Corporate,2020,8844
+ORD-1089,2019-12-04,150844,South,Technology,Consumer,2019,25219
+ORD-1090,2021-05-28,113725,West,Technology,Corporate,2021,15079
+ORD-1091,2021-12-12,47155,South,Technology,Consumer,2021,5335
+ORD-1092,2021-03-02,216031,South,Technology,Consumer,2021,28843
+ORD-1093,2019-08-05,89289,East,Furniture,Consumer,2019,12087
+ORD-1094,2021-02-02,144756,East,Technology,Consumer,2021,21829
+ORD-1095,2019-07-07,128597,South,Technology,Consumer,2019,19021
+ORD-1096,2020-01-15,125112,West,Technology,Corporate,2020,16012
+ORD-1097,2020-05-07,78906,Central,Technology,Corporate,2020,9119
+ORD-1098,2021-11-30,65403,South,Technology,Consumer,2021,9437
+ORD-1099,2022-03-26,126129,West,Furniture,Home Office,2022,16305
+ORD-1100,2019-01-15,165059,East,Technology,Corporate,2019,18124
+ORD-1101,2019-03-06,97105,East,Technology,Consumer,2019,15681
+ORD-1102,2020-06-04,181481,West,Furniture,Home Office,2020,26751
+ORD-1103,2022-09-29,159112,Central,Furniture,Home Office,2022,23367
+ORD-1104,2022-02-26,202723,East,Technology,Consumer,2022,31673
+ORD-1105,2020-10-09,121673,East,Technology,Consumer,2020,16612
+ORD-1106,2021-12-22,107273,East,Technology,Home Office,2021,16706
+ORD-1107,2022-03-08,83898,West,Office Supplies,Corporate,2022,11276
+ORD-1108,2020-08-15,140434,South,Furniture,Consumer,2020,14805
+ORD-1109,2020-01-27,197910,East,Furniture,Corporate,2020,25365
+ORD-1110,2020-02-23,202108,South,Office Supplies,Home Office,2020,27157
+ORD-1111,2019-10-16,62283,Central,Technology,Corporate,2019,9302
+ORD-1112,2020-01-14,177049,East,Office Supplies,Corporate,2020,19134
+ORD-1113,2019-08-19,167651,East,Furniture,Home Office,2019,18495
+ORD-1114,2021-10-14,148400,Central,Technology,Consumer,2021,17606
+ORD-1115,2019-02-10,86814,East,Furniture,Consumer,2019,10316
+ORD-1116,2021-11-17,164568,South,Office Supplies,Corporate,2021,24711
+ORD-1117,2019-05-15,112573,West,Furniture,Home Office,2019,13257
+ORD-1118,2019-07-20,166761,South,Office Supplies,Consumer,2019,23929
+ORD-1119,2021-02-18,179108,West,Technology,Corporate,2021,24028
+ORD-1120,2021-07-18,72019,West,Office Supplies,Corporate,2021,10044
+ORD-1121,2021-11-22,88637,South,Technology,Consumer,2021,13941
+ORD-1122,2021-12-07,204676,South,Office Supplies,Corporate,2021,26220
+ORD-1123,2020-05-17,92800,South,Furniture,Home Office,2020,14176
+ORD-1124,2020-02-11,131905,South,Technology,Corporate,2020,17054
+ORD-1125,2021-03-15,196993,Central,Technology,Corporate,2021,24566
+ORD-1126,2019-04-09,140438,East,Technology,Consumer,2019,23227
+ORD-1127,2020-11-14,166498,West,Technology,Corporate,2020,18865
+ORD-1128,2020-12-26,127705,South,Technology,Consumer,2020,13662
+ORD-1129,2021-08-18,197862,South,Furniture,Consumer,2021,30227
+ORD-1130,2020-09-04,85370,South,Furniture,Corporate,2020,9006
+ORD-1131,2020-10-04,212196,Central,Office Supplies,Consumer,2020,33360
+ORD-1132,2021-10-25,136417,South,Office Supplies,Consumer,2021,17777
+ORD-1133,2022-05-26,142366,South,Furniture,Corporate,2022,23133
+ORD-1134,2020-05-17,139125,South,Office Supplies,Consumer,2020,20791
+ORD-1135,2021-02-05,211889,East,Office Supplies,Consumer,2021,30081
+ORD-1136,2020-02-02,155305,Central,Technology,Corporate,2020,25588
+ORD-1137,2021-05-20,178083,South,Technology,Corporate,2021,22721
+ORD-1138,2021-03-05,83381,West,Technology,Consumer,2021,13765
+ORD-1139,2020-01-28,118616,West,Technology,Home Office,2020,13046
+ORD-1140,2019-07-26,76895,West,Technology,Consumer,2019,10261
+ORD-1141,2021-11-04,83417,Central,Technology,Corporate,2021,9931
+ORD-1142,2021-06-10,203604,Central,Office Supplies,Corporate,2021,27938
+ORD-1143,2021-05-13,190611,West,Office Supplies,Home Office,2021,21311
+ORD-1144,2021-01-12,100973,South,Technology,Corporate,2021,15904
+ORD-1145,2022-06-18,74768,Central,Technology,Corporate,2022,11801
+ORD-1146,2020-07-17,178192,West,Technology,Corporate,2020,29430
+ORD-1147,2021-10-17,47646,West,Furniture,Consumer,2021,5303
+ORD-1148,2019-04-06,130892,South,Furniture,Consumer,2019,18696
+ORD-1149,2020-04-29,161772,East,Office Supplies,Corporate,2020,21484
+ORD-1150,2022-12-01,201850,Central,Technology,Consumer,2022,25043
+ORD-1151,2019-08-19,147430,South,Office Supplies,Corporate,2019,18362
+ORD-1152,2021-01-18,220580,West,Office Supplies,Consumer,2021,28382
+ORD-1153,2022-04-09,209881,West,Technology,Corporate,2022,31130
+ORD-1154,2020-06-24,155212,South,Office Supplies,Consumer,2020,21908
+ORD-1155,2021-11-25,103219,Central,Furniture,Consumer,2021,13607
+ORD-1156,2020-06-08,170861,East,Furniture,Corporate,2020,18113
+ORD-1157,2022-03-29,147764,East,Furniture,Corporate,2022,15683
+ORD-1158,2022-06-20,50039,West,Office Supplies,Corporate,2022,5057
+ORD-1159,2022-01-14,206399,Central,Furniture,Consumer,2022,34262
+ORD-1160,2020-07-31,149857,East,Office Supplies,Consumer,2020,15174
+ORD-1161,2020-11-12,68358,Central,Office Supplies,Corporate,2020,7371
+ORD-1162,2020-07-10,192350,Central,Furniture,Consumer,2020,23479
+ORD-1163,2021-10-09,190709,West,Office Supplies,Corporate,2021,29602
+ORD-1164,2020-10-07,182100,East,Furniture,Corporate,2020,30160
+ORD-1165,2021-03-06,220464,South,Furniture,Corporate,2021,33962
+ORD-1166,2021-11-17,137130,West,Furniture,Corporate,2021,20207
+ORD-1167,2022-09-25,207781,East,Technology,Home Office,2022,28252
+ORD-1168,2022-09-16,77268,East,Office Supplies,Home Office,2022,8247
+ORD-1169,2022-10-03,109699,East,Furniture,Consumer,2022,18139
+ORD-1170,2022-06-08,48176,East,Furniture,Consumer,2022,7319
+ORD-1171,2019-07-09,54490,East,Office Supplies,Consumer,2019,7840
+ORD-1172,2022-06-02,60713,Central,Technology,Consumer,2022,9226
+ORD-1173,2022-11-09,76507,West,Furniture,Corporate,2022,11446
+ORD-1174,2022-11-01,95399,Central,Furniture,Home Office,2022,13715
+ORD-1175,2022-07-30,117800,South,Office Supplies,Consumer,2022,19657
+ORD-1176,2020-09-24,54166,East,Furniture,Consumer,2020,8757
+ORD-1177,2020-09-19,201655,West,Office Supplies,Consumer,2020,29120
+ORD-1178,2021-08-30,220656,East,Office Supplies,Corporate,2021,32554
+ORD-1179,2022-07-06,186255,West,Technology,Corporate,2022,19440
+ORD-1180,2022-10-14,139019,Central,Technology,Consumer,2022,20292
+ORD-1181,2020-12-10,161312,West,Furniture,Home Office,2020,16756
+ORD-1182,2022-12-05,138704,South,Technology,Corporate,2022,19484
+ORD-1183,2020-10-10,93427,South,Technology,Consumer,2020,15708
+ORD-1184,2019-11-14,49770,West,Furniture,Corporate,2019,6882
+ORD-1185,2022-06-02,178619,West,Technology,Corporate,2022,23709
+ORD-1186,2022-06-11,205822,West,Furniture,Consumer,2022,25100
+ORD-1187,2020-11-14,206985,West,Furniture,Consumer,2020,22563
+ORD-1188,2020-10-25,70990,South,Furniture,Consumer,2020,10654
+ORD-1189,2022-10-29,54092,East,Furniture,Consumer,2022,6159
+ORD-1190,2022-06-10,169277,West,Furniture,Home Office,2022,18393
+ORD-1191,2022-02-10,143268,West,Technology,Home Office,2022,18521
+ORD-1192,2020-03-17,107313,South,Furniture,Consumer,2020,16569
+ORD-1193,2020-07-17,46708,South,Furniture,Consumer,2020,7054
+ORD-1194,2022-07-15,113788,Central,Office Supplies,Consumer,2022,11901
+ORD-1195,2022-11-10,50532,West,Furniture,Consumer,2022,6646
+ORD-1196,2022-11-11,107059,Central,Office Supplies,Home Office,2022,14565
+ORD-1197,2022-02-10,123016,South,Furniture,Consumer,2022,17746
+ORD-1198,2021-08-09,211242,South,Technology,Consumer,2021,30554
+ORD-1199,2022-01-09,155236,East,Office Supplies,Consumer,2022,19472
+ORD-1200,2020-11-29,173458,West,Technology,Corporate,2020,24045
+ORD-1201,2019-04-23,73224,Central,Technology,Consumer,2019,9758
+ORD-1202,2019-01-02,171284,South,Technology,Corporate,2019,27480
+ORD-1203,2020-10-03,155964,South,Furniture,Consumer,2020,21300
+ORD-1204,2019-08-08,150588,Central,Furniture,Corporate,2019,19662
+ORD-1205,2021-05-04,128302,East,Technology,Corporate,2021,16437
+ORD-1206,2022-06-02,91798,South,Office Supplies,Consumer,2022,12797
+ORD-1207,2020-01-20,205855,West,Technology,Consumer,2020,31905
+ORD-1208,2022-11-27,157105,South,Technology,Home Office,2022,21542
+ORD-1209,2022-02-27,206367,West,Technology,Home Office,2022,30008
+ORD-1210,2021-12-12,64822,Central,Technology,Consumer,2021,9758
+ORD-1211,2020-12-30,94195,West,Furniture,Consumer,2020,12800
+ORD-1212,2022-12-10,212041,Central,Furniture,Home Office,2022,27484
+ORD-1213,2019-09-04,72267,West,Furniture,Corporate,2019,11554
+ORD-1214,2021-04-15,107310,Central,Technology,Consumer,2021,13842
+ORD-1215,2019-07-22,158596,West,Technology,Home Office,2019,20931
