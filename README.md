@@ -1,7 +1,7 @@
 # Retail Sales Performance Dashboard | Power BI + Python
 
 ## Project Overview
-Analyzed FY2019-2022 retail sales data (216 Orders, 220 Order Lines) worth ₹2,93,76,855 to identify sales trends, profitable categories and region-wise performance. Overall profit margin is 11.9%.
+Analyzed FY2019-2022 retail sales data (216 Orders, 229 Order Lines) worth ₹2,93,76,855 to identify sales trends, profitable categories and region-wise performance. Overall profit margin is 11.9%.
 
 ## KPIs
 - Total Sales: ₹2,93,76,855
